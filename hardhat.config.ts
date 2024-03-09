@@ -1,3 +1,5 @@
+import "./tasks/interact";
+import "./tasks/deploy";
 import "./tasks/stake";
 import "./tasks/claim";
 import "./tasks/unstake";

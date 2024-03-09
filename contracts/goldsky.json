@@ -1,0 +1,18 @@
+{
+    "version": "1",
+    "name": "NFT",
+    "abis": {
+      "NFT": {
+        "path": "artifacts/contracts/NFT.sol/NFT.json"
+      }
+    },
+    "chains": ["zetachain-testnet"],
+    "instances": [
+      {
+        "abi": "NFT",
+        "address": "0x8B6FB3Dcbb9FaF6cbD79A9B2af6F06c6a7083D8c",
+        "chain": "zetachain-testnet",
+        "startBlock": 3959642
+      }
+    ]
+  }
